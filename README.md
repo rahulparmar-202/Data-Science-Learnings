@@ -43,6 +43,9 @@ This repository organizes learnings into distinct modules:
 - 🔍 **Filtering the Data**  
   Practical approaches for subsetting and analyzing datasets.
 
+- 📃 **Data Extraction**  
+  Extracting data from the csv files/dataframes using loc(), iloc() etc.
+
 - 📚 **Example Notebook**  
   Standalone notebooks demonstrating specific utilities or concepts.
 
@@ -112,6 +115,7 @@ Data-Science-Learnings/
 ├── 02. Intro to Pandas/              # Notebooks on the Pandas library
 ├── 03. Project 1 - Web Scraping/     # Web scraping project files
 ├── 04. Filtering the Data/           # Data filtering techniques
+├── 05. Data Extraction/              # Data Extraction techniques
 ├── Example.ipynb                     # Standalone example notebook
 └── README.md                         # Project documentation
 
